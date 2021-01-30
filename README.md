@@ -2,7 +2,7 @@
 > The series tracker web app. Project of Hashnode Hackathon by Vercel (Jan 2021) [more](https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel)
 
 ## Demo
-- 
+- [iamwatching.vercel.app](https://iamwatching.vercel.app/) 
 
 ## How to run
 1. `yarn` or `npm install`
